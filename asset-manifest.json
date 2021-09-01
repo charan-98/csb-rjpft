@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "https://charan-98.github.io/csb-rjpft/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://charan-98.github.io/csb-rjpft/static/js/main.365c9c42.chunk.js",
+    "main.js.map": "https://charan-98.github.io/csb-rjpft/static/js/main.365c9c42.chunk.js.map",
+    "runtime-main.js": "https://charan-98.github.io/csb-rjpft/static/js/runtime-main.6dee6797.js",
+    "runtime-main.js.map": "https://charan-98.github.io/csb-rjpft/static/js/runtime-main.6dee6797.js.map",
+    "static/css/2.a7397990.chunk.css": "https://charan-98.github.io/csb-rjpft/static/css/2.a7397990.chunk.css",
+    "static/js/2.3f9d46f7.chunk.js": "https://charan-98.github.io/csb-rjpft/static/js/2.3f9d46f7.chunk.js",
+    "static/js/2.3f9d46f7.chunk.js.map": "https://charan-98.github.io/csb-rjpft/static/js/2.3f9d46f7.chunk.js.map",
+    "index.html": "https://charan-98.github.io/csb-rjpft/index.html",
+    "static/css/2.a7397990.chunk.css.map": "https://charan-98.github.io/csb-rjpft/static/css/2.a7397990.chunk.css.map",
+    "static/css/main.f29ae65a.chunk.css.map": "https://charan-98.github.io/csb-rjpft/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.3f9d46f7.chunk.js.LICENSE.txt": "https://charan-98.github.io/csb-rjpft/static/js/2.3f9d46f7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6dee6797.js",
+    "static/css/2.a7397990.chunk.css",
+    "static/js/2.3f9d46f7.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.365c9c42.chunk.js"
+  ]
+}
